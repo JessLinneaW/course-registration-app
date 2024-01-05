@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/course-registration-app/static/css/main.f387f8f3.css",
+    "main.js": "/course-registration-app/static/js/main.9279326f.js",
+    "static/js/787.daf44e0c.chunk.js": "/course-registration-app/static/js/787.daf44e0c.chunk.js",
+    "static/media/felix.png": "/course-registration-app/static/media/felix.4655bc288d544fed1c50.png",
+    "static/media/nestle.png": "/course-registration-app/static/media/nestle.b182d2e446c51c5f6f50.png",
+    "static/media/jess.png": "/course-registration-app/static/media/jess.2630885e763431e0bd17.png",
+    "static/media/card1.png": "/course-registration-app/static/media/card1.198437395ec8e9a2ad3b.png",
+    "static/media/card2.png": "/course-registration-app/static/media/card2.f3db3fa808a239fa2d09.png",
+    "static/media/banner2.png": "/course-registration-app/static/media/banner2.679246dcc3f53e543eef.png",
+    "static/media/banner3.png": "/course-registration-app/static/media/banner3.65d52fc25618b20e9a64.png",
+    "static/media/card3.png": "/course-registration-app/static/media/card3.38e0e868fb663f11a493.png",
+    "static/media/banner1.png": "/course-registration-app/static/media/banner1.e7cc014c8edc4bb488ea.png",
+    "index.html": "/course-registration-app/index.html",
+    "main.f387f8f3.css.map": "/course-registration-app/static/css/main.f387f8f3.css.map",
+    "main.9279326f.js.map": "/course-registration-app/static/js/main.9279326f.js.map",
+    "787.daf44e0c.chunk.js.map": "/course-registration-app/static/js/787.daf44e0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f387f8f3.css",
+    "static/js/main.9279326f.js"
+  ]
+}
